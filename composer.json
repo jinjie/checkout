@@ -26,7 +26,7 @@
       },
       "require": {
           "silverstripe/framework": "~4.0",
-          "silverstripe/silverstripe-omnipay": "^3@dev",
+          "silverstripe/silverstripe-omnipay": "^3.2",
           "silvercommerce/settings": "~1.0",
           "silvercommerce/orders-admin": "^1.5",
           "silvercommerce/contact-admin": "~1.0",
